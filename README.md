@@ -22,7 +22,7 @@
 
   <p align="center">
     🎓 Futur ingénieur logiciel à l'<b>ÉTS Montréal</b> • Diplômé en informatique au <b>Cégep André-Laurendeau</b><br>
-    💡 Intéressé par le <b>développement full-stack</b>, les <b>systèmes distribués</b> et le <b>cloud</b>.
+    💡 Intéressé par le <b>développement full-stack</b> et le <b>développement de jeu vidéo</b>.
   </p>
 
   <br>
